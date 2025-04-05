@@ -1,0 +1,3 @@
+export const GET_MENU_REQUEST = "GET_MENU_REQUEST";
+export const GET_MENU_SUCCESS ="MENU_GET_SUCCESS";
+export const GET_MENU_FAIL = "MENU_GET_FAIL";
